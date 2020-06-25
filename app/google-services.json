@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298763669761",
+    "firebase_url": "https://study-impact.firebaseio.com",
+    "project_id": "study-impact",
+    "storage_bucket": "study-impact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298763669761:android:aec56eebfb7a8a98ce0b00",
+        "android_client_info": {
+          "package_name": "com.example.studyimpact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298763669761-3aa5sp76nb6u15k1sjimunk0287n32r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jfLWvltkCIcx3bKmJENIkpPzNTj6FRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298763669761-3aa5sp76nb6u15k1sjimunk0287n32r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
